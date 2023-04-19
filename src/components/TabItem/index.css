@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.button {
+  background-color: transparent;
+  border: none;
+  font-size: 14px;
+  color: #7b8794;
+  width: 70px;
+  cursor: pointer;
+}
+.button-line {
+  background-color: transparent;
+  border: none;
+  font-size: 20px;
+  color: #2563eb;
+  width: 70px;
+  cursor: pointer;
+}
+.line {
+  border: 1px solid #2563eb;
+}
